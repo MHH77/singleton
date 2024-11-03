@@ -1,4 +1,4 @@
-package org.mhh.Impl_1;
+package org.mhh.Singleton.Impl_1;
 
 public class Test1 {
     private Test1() {

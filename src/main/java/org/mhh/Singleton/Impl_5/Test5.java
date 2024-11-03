@@ -1,4 +1,4 @@
-package org.mhh.Impl_5;
+package org.mhh.Singleton.Impl_5;
 
 public class Test5 {
     private static final long serialVersionUID = -7604766932017737115L;
